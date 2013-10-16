@@ -4,3 +4,9 @@
 [submodule "tabular"]
 	path = tabular
 	url = https://github.com/godlygeek/tabular.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
